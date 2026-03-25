@@ -22,7 +22,7 @@ Wine Dataset
 
 
 
-## Day's Progress - 26 March 2026
+## Day 26 - Norminal and Ordinal Encoding
 
 ### Topics Covered
 - Understood the difference between **Nominal** and **Ordinal** categorical data
@@ -36,3 +36,33 @@ Wine Dataset
 - Ordinal data → Ordinal Encoding
 - Always use `random_state=42` in `train_test_split`
 - Always `git pull` before `git push`
+
+## Day 27 - One Hot Encoding
+
+Topics Covered
+
+Understood why raw number assignment fails for categorical data
+Learned One-Hot Encoding and how it converts categories into binary columns
+Understood the Dummy Variable Trap and how to avoid it using drop_first=True
+Learned what Multicollinearity is and why it hurts model interpretability
+Detected multicollinearity using df.corr() and VIF scores
+
+Key Learnings
+
+Categorical data with no order → One-Hot Encoding
+Always use drop_first=True after one-hot encoding
+Correlated input features → Multicollinearity
+Check multicollinearity with df.corr() — values near 1 or -1 are a red flag
+VIF above 10 → fix it immediately
+
+
+
+
+
+
+
+
+
+
+
+
