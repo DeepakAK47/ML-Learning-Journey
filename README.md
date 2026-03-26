@@ -55,8 +55,49 @@ Correlated input features → Multicollinearity
 Check multicollinearity with df.corr() — values near 1 or -1 are a red flag
 VIF above 10 → fix it immediately
 
+## Day 28 - Learning Transformer
 
+### 🔹 Topics Covered
+1. **ColumnTransformer (scikit-learn)**
 
+   * Understood how to apply **different preprocessing techniques to different columns** in a dataset.
+   * Learned why it is important when working with **mixed data types (numerical + categorical)**.
+   * Explored how it helps in building a **clean and automated preprocessing pipeline**.
+
+2. **One Hot Encoding (Concept + Memory Handling)**
+
+   * Learned how categorical data is converted into **binary (0/1) format**.
+   * Understood the difference between:
+
+     * **Sparse representation** → memory efficient (stores only important values)
+     * **Dense representation** → easy to read but memory heavy
+
+3. **`sparse=False` vs `sparse_output=False`**
+
+   * Clarified that:
+
+     * `sparse=False` was used in older versions
+     * `sparse_output=False` is the **updated parameter in modern scikit-learn**
+   * Understood when to prefer dense vs sparse output:
+
+     * Dense → for learning and debugging
+     * Sparse → for large-scale real-world datasets
+
+---
+
+### 🔹 How I Learned
+
+* Focused on **conceptual understanding instead of copy-paste code**
+* Broke down each topic into:
+
+  * **Why it is used**
+  * **How it works internally**
+  * **Real-world intuition (memory, efficiency, pipeline usage)**
+* Connected topics to practical ML workflows like:
+
+  * Data preprocessing
+  * Feature transformation
+  * Pipeline building
 
 
 
