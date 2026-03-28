@@ -98,10 +98,13 @@ VIF above 10 → fix it immediately
   * Data preprocessing
   * Feature transformation
   * Pipeline building
+ 
 
+    ## Day 29 - Learning Pipelines concepts
 
-
-
+    firstly I have train and test the model without using the pipeline over the titanic datasets.
+    secondly I used pipelines and transformer for the training and test the data.
+    I have done this by both ways to analyse hoe the pipelines make the easier to handle in the prroduction level.
 
 
 
