@@ -107,6 +107,10 @@ VIF above 10 → fix it immediately
     I have done this by both ways to analyse hoe the pipelines make the easier to handle in the prroduction level.
 
 
+     ## Day 30 - Learning Transformer and how to apply
 
-
+    -> Learn log transformer
+    -> Reciprogracal transformer
+    -> Square transformer
+    -> Square root transformer
 
