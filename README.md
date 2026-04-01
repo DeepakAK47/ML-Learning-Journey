@@ -108,6 +108,9 @@ VIF above 10 → fix it immediately
 
 
      ## Day 30 - Learning Transformer and how to apply
+    -> applying log normal
+    -> Draw QQ plot before and after applying the log normal
+    -> Calculate the predicted values
 
     -> Learn log transformer
     -> Reciprogracal transformer
