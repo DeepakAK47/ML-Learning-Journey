@@ -111,6 +111,12 @@ VIF above 10 → fix it immediately
     -> applying log normal
     -> Draw QQ plot before and after applying the log normal
     -> Calculate the predicted values
+ 
+    ## Day 31 - Learning box-cox anf yeo johnson
+    -> Apply box-cox tranfroamer
+    -> comapare values before and after transformer
+    -> draw distplot and QQ pplot before and after applying the transformer
+    
 
     -> Learn log transformer
     -> Reciprogracal transformer
