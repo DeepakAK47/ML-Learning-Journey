@@ -116,6 +116,12 @@ VIF above 10 → fix it immediately
     -> Apply box-cox tranfroamer
     -> comapare values before and after transformer
     -> draw distplot and QQ pplot before and after applying the transformer
+ 
+    ## Day 31 - Encoding  Numerical dataColumns
+    -> Equal Width
+    -> Equal frequency
+    -> binning
+    
     
 
     -> Learn log transformer
