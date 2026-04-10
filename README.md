@@ -133,3 +133,5 @@ VIF above 10 → fix it immediately
     -> Square transformer
     -> Square root transformer
 
+    -> Drawing the histgram graph of the fare amd age column before and after aplying discretisation
+    -> Analyse the behaviour of the range of the data
