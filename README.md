@@ -121,7 +121,11 @@ VIF above 10 → fix it immediately
     -> Equal Width
     -> Equal frequency
     -> binning
-    
+ 
+     ## Day 32 - Encoding - kbindiscretisation
+    -> Applytransformer
+    -> create 10 bins for age and fare
+    -> use quantile
     
 
     -> Learn log transformer
@@ -129,3 +133,5 @@ VIF above 10 → fix it immediately
     -> Square transformer
     -> Square root transformer
 
+    -> Drawing the histgram graph of the fare amd age column before and after aplying discretisation
+    -> Analyse the behaviour of the range of the data
