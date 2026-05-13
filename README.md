@@ -135,3 +135,5 @@ VIF above 10 → fix it immediately
 
     -> Drawing the histgram graph of the fare amd age column before and after aplying discretisation
     -> Analyse the behaviour of the range of the data
+
+# DAY 50 Gradient desecdent
