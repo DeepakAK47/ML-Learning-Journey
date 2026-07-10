@@ -1,1 +1,1 @@
-
+-> Explain all the phases in simple and precisely
